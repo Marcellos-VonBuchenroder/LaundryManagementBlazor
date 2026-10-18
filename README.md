@@ -1,5 +1,13 @@
 # SparkClean – Laundry Management System
 
+> **Team project, NMU ONT401 (Semester 1, 2026).** Five developers each owned one or more design patterns.
+> **My part (Marcellos):** I set up the Blazor Server project and implemented the **Singleton** pattern: the shared `OrderLogger` that records order events and feeds the admin dashboard's order log.
+>
+> The team's shared repository: [ChocTrippleB/LaundryManagementBlazor](https://github.com/ChocTrippleB/LaundryManagementBlazor). This copy keeps the full commit history.
+
+**Stack:** C# · .NET 8 · Blazor Server (interactive render mode) · Bootstrap 5
+**Patterns:** Singleton · Factory Method · Abstract Factory · Strategy · Observer · Decorator
+
 ## Project Overview
 
 SparkClean is a Laundry Pickup & Delivery web application developed for the ONT401 Assignment.
